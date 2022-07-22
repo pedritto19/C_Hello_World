@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 int main()
-{
-	printf("Olá, alunos de PPC !\n");
+{	
+	
+	printf("Olá, O seu nome !\n");
 	return 0;
 }
-	
